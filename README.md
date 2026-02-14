@@ -8,5 +8,6 @@ This project demonstrates a complete CI/CD pipeline using:
 - nose for unit testing
 - Tekton pipelines (CD)
 - OpenShift deployment
+- Updated for CI validation
 
 The pipeline automatically builds, tests, and deploys the application.
